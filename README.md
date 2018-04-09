@@ -6,6 +6,7 @@ Developing Custom Skills for Alexa
 Important Notes:
 1) Flask-Ask temporarily substitute web hosting
 2) In order to make it work with Alexa, necessary to use Ngrok to create available https Endpoint
+obs.: every time you wish to test, necessary to repeat the following steps
     2a) using Powershell:
     .\ngrok.exe http 5000
 
